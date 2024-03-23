@@ -1,0 +1,4 @@
+failBack=tolerant.fault.com.zhuang.zrpc.FailBackTolerantStrategy
+failFast=tolerant.fault.com.zhuang.zrpc.FailFastTolerantStrategy
+failOver=tolerant.fault.com.zhuang.zrpc.FailOverTolerantStrategy
+failSafe=tolerant.fault.com.zhuang.zrpc.FailSafeTolerantStrategy
